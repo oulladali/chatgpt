@@ -1,0 +1,2 @@
+# chatgpt
+code for life
